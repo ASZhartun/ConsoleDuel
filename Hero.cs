@@ -88,5 +88,13 @@ namespace Creatures
                 }
             }
         }
+
+        public void Attack(Creature target)
+        {
+            if (Current_State == States.ACTIVE)
+            {
+                target.Current_Hp -= Math.Round(Dps+Dps*Crit, 0);
+            }
+        }
     }
 }
