@@ -6,10 +6,12 @@
 1. Показать, кто победит.
 2. Иметь возможность менять параметры для ребаланса.
 # Итоги
-1. Победил нерзул.
+1. ~~Победил нерзул.~~ Победила дружба, она же смерть. Погибли оба - всё очень сбаланисрованно.
 2. Есть рабочая система дуэли, классы способностей, персонажей, подконтрольных юнитов, пайплайн взаимодействия.
 # Пруфы
-1. ![image](https://github.com/ASZhartun/ConsoleDuel/assets/78444904/5fb43631-aa37-4020-b84b-466c9618550c)
-2. ![image](https://github.com/ASZhartun/ConsoleDuel/assets/78444904/7643c9ec-0aae-4787-97be-9de028829822)
+1. ![image](https://github.com/ASZhartun/ConsoleDuel/assets/78444904/a1ea8c13-1d4f-4119-9138-77cde6484cfc)
+2. ![image](https://github.com/ASZhartun/ConsoleDuel/assets/78444904/df5b119a-c013-4e41-8499-286539defbc1)
+
+
 
 
